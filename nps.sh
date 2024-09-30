@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Author: h3g0c1v
 # Script en BASH para saber que scripts de nmap hay para un protocolo determinado
 
 # Colores
